@@ -1,6 +1,8 @@
 NPEET
 =====
 
+This subfolder is adapted from [the NPEET repository](https://github.com/gregversteeg/NPEET) by Gao et al. 2003.
+
 Non-parametric Entropy Estimation Toolbox
 
 This package contains Python code implementing several entropy estimation functions for both discrete and continuous variables. Information theory provides a model-free way find structure in complex systems, but difficulties in estimating these quantities has traditionally made these techniques infeasible. This package attempts to allay these difficulties by making modern state-of-the-art entropy estimation methods accessible in a single easy-to-use python library. 
