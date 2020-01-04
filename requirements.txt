@@ -1,0 +1,5 @@
+torch>=0.4.1
+scikit-learn
+scipy
+matplotlib
+jupyter
