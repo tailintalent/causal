@@ -4,7 +4,6 @@ This repository contains the code for the paper "Discovering Nonlinear Relations
 ## Requirements
 - Python 3
 - [PyTorch](https://pytorch.org/) >= 0.4.1
-- [TensorFlow](https://www.tensorflow.org/) if you want to use TensorBoard to monitor the training with PyTorch.
 
 Install other required packages by:
 ```
