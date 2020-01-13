@@ -1,5 +1,5 @@
 ## Relation Learning With Minimum Predictive Information Regularization
-This repository contains the code for the paper "Discovering Nonlinear Relations with Minimum Predictive Information Regularization" by Wu et al. 2019. It contains the implementation of the proposed Minimum Predictive Information Regularization (MPIR) method and several compared methods, as well as the three experiments of the paper.
+This repository contains the code for the paper "[Discovering Nonlinear Relations with Minimum Predictive Information Regularization](https://arxiv.org/abs/2001.01885)" by Wu et al. 2019. It contains the implementation of the proposed Minimum Predictive Information Regularization (MPIR) method and several compared methods, as well as the three experiments of the paper.
 
 ## Requirements
 - Python 3
@@ -26,3 +26,14 @@ The dataset preparation and relation learning with different methods are via the
 - Causal Influence
 
 The result is saved under the data/ folder as a pickle binary file.
+
+## Citation
+If you compare with, build on, or use aspects of the work, please cite the following:
+```
+@article{wu2020discovering,
+  title={Discovering Nonlinear Relations with Minimum Predictive Information Regularization},
+  author={Wu, Tailin and Breuel, Thomas and Skuhersky, Michael and Kautz, Jan},
+  journal={arXiv preprint arXiv:2001.01885},
+  year={2020}
+}
+```
